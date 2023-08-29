@@ -1,4 +1,4 @@
-HDAC5 and Cocaine 
+Histone deacetylase 5 in prelimbic prefrontal cortex regulates cocaine-induced gene expression and limits context-associated cocaine seeking behavior.
 ==========================
 
 ![](Boxplot_hubs2.jpg)
