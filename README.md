@@ -1,7 +1,7 @@
 HDAC5 and Cocaine 
 ==========================
 
-![](Boxplot_hubs.jpg)
+![](Boxplot_hubs2.jpg)
 
 This repository contains analysis code for the HDAC5 ~ Cocaine gene expression project carried out by researchers at the [Cowan Lab, MUSC](https://medicine.musc.edu/departments/neuroscience/research/cowan) and [Berto Lab, MUSC] (https://bertolab.org/).
 
