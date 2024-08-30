@@ -16,7 +16,7 @@ URL:
 
 | directory | contents | code |
 | --------- | -------- | -------- |
-| [`input`](input/) | Input data of the initial processing and quality check. | 01_Create_InputData.R|
+| [`futcounts`](futcounts/) | Input data of the initial processing and quality check. | 01_Create_InputData.R|
 | [`dge`](dge/) | Output of the Differential expression analysis. | 02_Dge.R \ 03_Convert_ID.R \ 04_DGE_Viz.R \ 05_DGE_GeneOntology.R|
 | [`wgcna_output`](wgcna_output/) | Output data of the coexpression analysis. | 06_WGCNA.R \ 07_Module_Visiualization.R|
 | [`utils`](utils/) | Utility functions and data. | 08_Enrichment_Modules.sh |
