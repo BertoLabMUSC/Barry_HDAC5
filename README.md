@@ -3,7 +3,7 @@ Histone deacetylase 5 in prelimbic prefrontal cortex regulates cocaine-induced g
 
 ![](Boxplot_hubs2.jpg)
 
-This repository contains analysis code for the HDAC5 ~ Cocaine gene expression project carried out by researchers at the [Cowan Lab, MUSC](https://medicine.musc.edu/departments/neuroscience/research/cowan) and [Berto Lab, MUSC](https://bertolab.org/).
+This repository contains analysis code for the HDAC5 ~ Cocaine gene expression project carried out by researchers at the [Cowan Lab, MUSC](https://medicine.musc.edu/departments/pathology/division-of-experimental-pathology/laboratories/wang) and [Berto Lab, MUSC](https://bertolab.org/).
 
 ## Cite this
 
